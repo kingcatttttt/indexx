@@ -7,10 +7,10 @@ this is inline code `<addr>`
 
 
 This is Task list:
--[x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supporeted 
--[x] Do a HomeWork
--[x] Sleep
--[ ] Go to RoboCode
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supporeted 
+- [x] Do a HomeWork
+- [x] Sleep
+- [ ] Go to RoboCode
 
 This is Table:
 First Header | Second Header 
