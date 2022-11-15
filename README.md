@@ -12,7 +12,7 @@ This is Task list:
 -[x] Sleep
 -[ ] Go to RoboCode
 
-This is Table 
+This is Table:
 First Header | Second Header 
 -------------|--------------
 Content From cell 1 | Content from cell 2
