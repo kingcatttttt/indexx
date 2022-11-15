@@ -7,7 +7,7 @@ this is inline code '<addr>'
 
 
 This is Task list:
--[x] @mentions, #refs , [links](), **formating**, and <del>tags</del> suporeted 
+-[x] @mentions, #refs , [links](), **formatting**, and <del>tags</del> suporeted 
 -[x] Do a HomeWork
 -[x] Sleep
 -[ ] Go to RoboCode
