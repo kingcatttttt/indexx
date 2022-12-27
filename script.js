@@ -3,7 +3,7 @@
 //63a90a13f43a573dae095739
 let productsGrid = document.getElementById("products-grid");
 let productsArray = [];
-let url = "https://market-a15d.restdb.io/rest/products?max=2"
+let url = "https://market-a15d.restdb.io/rest/products?max=3"
 let xhr = new XMLHttpRequest();
 xhr.open("GET", url);
 xhr.setRequestHeader("content-type", "application/json");
